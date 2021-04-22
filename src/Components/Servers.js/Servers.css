@@ -1,0 +1,8 @@
+.Servers {
+  background-color: var(--bg-servers);
+}
+
+.Servers .servers_name {
+  border-bottom: 2px solid #1f1f1f;
+}
+/*# sourceMappingURL=Servers.css.map */

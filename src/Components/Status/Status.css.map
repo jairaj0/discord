@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAA;EACH,gBAAgB,EAAE,gBAAgB;CAKrC;;AAND,AAGI,OAHG,CAGH,OAAO,CAAA;EACH,aAAa,EAAE,iBAAiB;CACnC",
+    "sources": [
+        "Status.scss"
+    ],
+    "names": [],
+    "file": "Status.css"
+}

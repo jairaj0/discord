@@ -1,0 +1,34 @@
+.Users {
+  background-color: var(--bg-users);
+}
+
+.Users .logo {
+  background-color: var(--bg-user);
+}
+
+.Users .logo:hover {
+  background-color: #7289DA;
+}
+
+.Users .user {
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  border-radius: 100%;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+
+.Users .user:hover {
+  border-radius: 20%;
+}
+
+.Users .logo:after {
+  content: "";
+  position: relative;
+  width: 30px;
+  height: 3px;
+  background-color: var(--bg-user);
+  top: 20px;
+}
+/*# sourceMappingURL=Users.css.map */

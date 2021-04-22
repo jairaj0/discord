@@ -1,0 +1,8 @@
+.Chats {
+  background-color: var(--bg-chats);
+}
+
+.Chats .chat_head {
+  border-bottom: 2px solid #2b2b2b;
+}
+/*# sourceMappingURL=Chats.css.map */
